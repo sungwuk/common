@@ -7,7 +7,7 @@
 
 NAVER LABS의 경우 체험형 인턴만 진행하며, 나머지 법인은 채용전제형 인턴십을 진행합니다.
 
-::hackday@navercorp.com
+:: 문의 hackday@navercorp.com
 
 ---
 포스터를 클릭하면 참가신청 페이지로 이동합니다.
