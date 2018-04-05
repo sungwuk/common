@@ -3,9 +3,9 @@
 ### 주요 안내
 각 주제마다 담당 법인이 상이합니다. 우수참가자는 기술면접 후 각 주제별 법인에서 인턴십을 진행하게 됩니다.<br/>
 (주제별 법인은 각 이슈의 라벨을 확인해주세요!)
-- 참가법인) NAVER, NAVER LABS, NAVER WEBTOON, Works Mobile 
+> 참가법인) NAVER, NAVER LABS, NAVER WEBTOON, Works Mobile 
 
-NAVER LABS의 경우 체험형 인턴만 진행하며, 나머지 법인은 채용전제형 인턴십을 진행합니다.
+NAVER LABS의 경우 체험형 인턴(정규직 전환 기회없이 인턴십까지만 수행)만 진행하며, 나머지 법인은 채용전제형 인턴십을 진행합니다.
 
 :: 문의 hackday@navercorp.com
 
